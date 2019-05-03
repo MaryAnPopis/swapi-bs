@@ -1,0 +1,9 @@
+.currentPage {
+    background-color: blue;
+    color: white;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+ }
